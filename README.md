@@ -10,7 +10,7 @@
 >
 > Lisa Robertson, "Playing House: A Brief Account of the Idea of the Shack"
 
-Of course, Robertson is speaking directly to Bachelard on the same oneiric plane that our readings from The Poetics of Space describe. As such, your task is to create a "notional" reconstruction of a living place from "daydream" or your past.
+Of course, Robertson is speaking directly to Bachelard on the same oneiric plane that our reading from _The Poetics of Space_ describes. As such, your task is to create a "notional" reconstruction of a living place from "daydream" or your past.
 
 ### Supporting readings
 
@@ -42,6 +42,9 @@ Of course, Robertson is speaking directly to Bachelard on the same oneiric plane
 - [ ] A statement of less than 200 words (exluding structure title) using key selections from readings and references to describe the process and outcome of the structural project
 * Below the statement, list all "reference points" used in the creation or design of the structure under a clearly-defined heading
 
+#### Nota bene
+
+Keep in mind that all documentation (including, but not limited to the label) is potentially a part of the finished product. While not part of this project's evaluation, think of these materials as an opportunity to create an architectural design identity.
 
 ### Submitting the assignment
 
