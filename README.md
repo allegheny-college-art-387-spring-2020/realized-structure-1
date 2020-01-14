@@ -1,7 +1,7 @@
 # ART 387: Impossible Architecture - Realized Structure 1
 
 * Point value: 100 pts.
-* Assigned: 13 January 2020
+* Assigned: 15 January 2020
 * Due: 29 January 2020
 
 ## The Memory Palace
