@@ -16,6 +16,10 @@ Of course, Robertson is speaking directly to Bachelard on the same oneiric plane
 
 * [Week 1](https://github.com/allegheny-college-art-387-spring-2020/course-materials/tree/master/Readings/Week%201)
 
+For creating clear "Markdown"-based files, I suggest a read through:
+
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
 ## Guidelines
 
 ### Material Budget
@@ -24,7 +28,7 @@ Of course, Robertson is speaking directly to Bachelard on the same oneiric plane
 
 ### Design
 
-- [ ] A physical model occupying no less than 16 in2 and no more than 25 in2
+- [ ] A physical model occupying no less than 16 in<sup>2</sup> and no more than 25 in<sup>2</sup>
     * There are no limits to the physical height of the structure, except those imposed by the physical building surrounding our terrain.
 - [ ] Generate at least two drawings serving as sketches used during building
 - [ ] Once installed on the course terrain, take photos of your model for this project and your own portfolio
@@ -39,8 +43,9 @@ Of course, Robertson is speaking directly to Bachelard on the same oneiric plane
     * measurement of physical area taken up by the structure
     * materials used
     * your name
-- [ ] A statement of less than 200 words (exluding structure title) using key selections from readings and references to describe the process and outcome of the structural project
-* Below the statement, list all "reference points" used in the creation or design of the structure under a clearly-defined heading
+- [ ] A document containing:
+    * A list of items that would appear _inside_ this realized structure
+    * A second list of "reference points" used in the creation or design of the structure under a clearly-defined heading
 
 #### Nota bene
 
@@ -49,8 +54,8 @@ Keep in mind that all documentation (including, but not limited to the label) is
 ### Submitting the assignment
 
 * Materials must be turned in using the GitHub repository under which this project was assigned.
-* All references must be placed in the references directory of the repository
-* The statement should replace **this** `README.md` file
+* Pictures of or representations of all references must be placed in the references directory of the repository
+* The various lists should replace **this** `README.md` file
 * All sketches should be placed in a `studies` directory
 * All materials used to create/install should be placed in an `installation` directory (digital files used to produce objects (including 3D models, vector/raster files, et al.)
 * The structure must be installed on the course terrain no later than 11:59 P.M. on the project due date
