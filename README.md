@@ -2,7 +2,7 @@
 
 * Point value: 100 pts.
 * Assigned: 22 January 2020
-* Due: 5 February 2020
+* Due: 5 February 2020, 5:00 PM
 
 ## The Memory Palace
 
@@ -44,6 +44,9 @@ For creating clear "Markdown"-based files, I suggest a read through:
     * materials used
     * your name
 - [ ] A document containing:
+    * A poem written "to" the structure
+	    * This can take the form of the "notional" or "Country House" pieces discussed in class or included in this repository
+	    * The poem must feature a line from the Bachlard reading as an "epigraph"
     * A list of items that would appear _inside_ this realized structure
     * A second list of "reference points" used in the creation or design of the structure under a clearly-defined heading
 
@@ -55,15 +58,17 @@ Keep in mind that all documentation (including, but not limited to the label) is
 
 * Materials must be turned in using the GitHub repository under which this project was assigned.
 * Pictures of or representations of all references must be placed in the references directory of the repository
-* The various lists should replace **this** `README.md` file
+* The poem and various lists should replace **this** `README.md` file
 * All sketches should be placed in a `studies` directory
 * All materials used to create/install should be placed in an `installation` directory (digital files used to produce objects (including 3D models, vector/raster files, et al.)
-* The structure must be installed on the course terrain no later than 11:59 P.M. on the project due date
+* The structure must be installed on the course terrain no later than 5:00 PM on the project due date
 
 ## Evaluation
 
 This project will be evaluated based on:
 
-- [ ] Completeness
-- [ ] Insightful use of references in writing portion(s) to inform the design/viewer
+- [ ] Completeness, taken to mean:
+    * Building installed on the course terrain by the deadline
+	* Accompanying materials turned in on GitHub by the deadline
+- [ ] Insightful use of references at writing portion(s) to inform the design/viewer
 - [ ] Documentation of process
