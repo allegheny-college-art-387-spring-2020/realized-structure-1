@@ -34,7 +34,7 @@ For creating clear "Markdown"-based files, I suggest a read through:
 - [ ] Once installed on the course terrain, take photos of your model for this project and your own portfolio
 * You **may not** use any direct references of the location you’re building
 * You must use 3 more abstract "reference points" for this assignment
-    *These may be music, visual art, novels, a Furby, or any set of "things" (interpret the term broadly) which represent the "daydreams" of the place you’re interpreting
+    * These may be music, visual art, novels, a Furby, or any set of "things" (interpret the term broadly) which represent the "daydreams" of the place you’re interpreting
 
 ### Writing
 
