@@ -45,8 +45,9 @@ For creating clear "Markdown"-based files, I suggest a read through:
     * your name
 - [ ] A document containing:
     * A poem written "to" the structure
-	    * This can take the form of the "notional" or "Country House" pieces discussed in class or included in this repository
+	    * This can take any form
 	    * The poem must feature a line from the Bachlard reading as an "epigraph"
+		* Must not feature the name or external physical characteristics of the structure, beyond the title
     * A list of items that would appear _inside_ this realized structure
     * A second list of "reference points" used in the creation or design of the structure under a clearly-defined heading
 
