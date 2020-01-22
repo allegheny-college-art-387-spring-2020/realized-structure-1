@@ -71,5 +71,5 @@ This project will be evaluated based on:
 - [ ] Completeness, taken to mean:
     * Building installed on the course terrain by the deadline
 	* Accompanying materials turned in on GitHub by the deadline
-- [ ] Insightful use of references at writing portion(s) to inform the design/viewer
+- [ ] Insightful use of references and writing to inform the design/viewer
 - [ ] Documentation of process
